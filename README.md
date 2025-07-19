@@ -7,6 +7,5 @@ this is a practice oh an html/css project
 
 ![Alt Text](store3.png)
 
-![Alt Text](store4.png)
 
-![Alt Text](store5.png)
+
